@@ -1,0 +1,93 @@
+{
+  "updated_at": "2026-11-01T15:47:55.142768+00:00",
+  "coverage": {
+    "prefectures": [
+      "大阪",
+      "京都",
+      "兵庫",
+      "奈良",
+      "滋賀",
+      "和歌山"
+    ],
+    "target_types": [
+      "フリーマーケット",
+      "蚤の市",
+      "忘れ物市",
+      "骨董市",
+      "閉店セール"
+    ],
+    "unconfigured_types": [
+      "忘れ物市",
+      "閉店セール"
+    ]
+  },
+  "events": [
+    {
+      "name": "サンシャインワーフ神戸 フリーマーケット",
+      "type": "フリーマーケット",
+      "pref": "兵庫",
+      "place": "サンシャインワーフ神戸",
+      "url": "https://b-i-a.jp/reserve/sunshine/",
+      "date": "2026-11-14",
+      "source": "フリマへGO!",
+      "status": "掲載情報・要開催確認"
+    },
+    {
+      "name": "サンシャインワーフ神戸 フリーマーケット",
+      "type": "フリーマーケット",
+      "pref": "兵庫",
+      "place": "サンシャインワーフ神戸",
+      "url": "https://b-i-a.jp/reserve/sunshine/",
+      "date": "2026-11-18",
+      "source": "フリマへGO!",
+      "status": "掲載情報・要開催確認"
+    },
+    {
+      "name": "サンシャインワーフ神戸 フリーマーケット",
+      "type": "フリーマーケット",
+      "pref": "兵庫",
+      "place": "サンシャインワーフ神戸",
+      "url": "https://b-i-a.jp/reserve/sunshine/",
+      "date": "2026-11-29",
+      "source": "フリマへGO!",
+      "status": "掲載情報・要開催確認"
+    },
+    {
+      "name": "サンシャインワーフ神戸 フリーマーケット",
+      "type": "フリーマーケット",
+      "pref": "兵庫",
+      "place": "サンシャインワーフ神戸",
+      "url": "https://b-i-a.jp/reserve/sunshine/",
+      "date": "2026-12-05",
+      "source": "フリマへGO!",
+      "status": "掲載情報・要開催確認"
+    },
+    {
+      "name": "サンシャインワーフ神戸 フリーマーケット",
+      "type": "フリーマーケット",
+      "pref": "兵庫",
+      "place": "サンシャインワーフ神戸",
+      "url": "https://b-i-a.jp/reserve/sunshine/",
+      "date": "2026-12-16",
+      "source": "フリマへGO!",
+      "status": "掲載情報・要開催確認"
+    },
+    {
+      "name": "サンシャインワーフ神戸 フリーマーケット",
+      "type": "フリーマーケット",
+      "pref": "兵庫",
+      "place": "サンシャインワーフ神戸",
+      "url": "https://b-i-a.jp/reserve/sunshine/",
+      "date": "2026-12-19",
+      "source": "フリマへGO!",
+      "status": "掲載情報・要開催確認"
+    }
+  ],
+  "collection_log": [
+    "サンシャインワーフ神戸: 6 records",
+    "fmfm 関西骨董市・蚤の市: SKIPPED (PermissionError: robots.txt unavailable or access disallowed)",
+    "fmfm 関西フリーマーケット: SKIPPED (PermissionError: robots.txt unavailable or access disallowed)",
+    "忘れ物市: no verified machine-readable source configured yet",
+    "閉店セール: no verified machine-readable source configured yet"
+  ]
+}
