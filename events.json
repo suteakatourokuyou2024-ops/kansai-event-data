@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T21:31:56.756224+00:00",
+  "updated_at": "2026-11-02T12:37:16.097327+00:00",
   "coverage": {
     "prefectures": [
       "大阪",
@@ -40,6 +40,16 @@
       "url": "https://b-i-a.jp/reserve/sunshine/",
       "date": "2026-11-18",
       "source": "フリマへGO!",
+      "status": "掲載情報・要開催確認"
+    },
+    {
+      "name": "中之島「古着&ヴィンテージ」祭り",
+      "type": "蚤の市",
+      "pref": "大阪",
+      "place": "中央公会堂前広場",
+      "url": "https://garagesale.co.jp/schedule/expo_recycle?id=255",
+      "date": "2026-11-22",
+      "source": "日本ガレージセール協会",
       "status": "掲載情報・要開催確認"
     },
     {
@@ -87,6 +97,7 @@
     "サンシャインワーフ神戸: 6 records",
     "fmfm 関西骨董市・蚤の市: SKIPPED (PermissionError: robots.txt unavailable or access disallowed)",
     "fmfm 関西フリーマーケット: SKIPPED (PermissionError: robots.txt unavailable or access disallowed)",
+    "日本ガレージセール協会: 1 records",
     "忘れ物市: no verified machine-readable source configured yet",
     "閉店セール: no verified machine-readable source configured yet"
   ]
