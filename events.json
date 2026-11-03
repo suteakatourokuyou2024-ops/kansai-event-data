@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T06:32:09.204496+00:00",
+  "updated_at": "2026-11-03T21:41:30.497360+00:00",
   "coverage": {
     "prefectures": [
       "大阪",
@@ -24,22 +24,22 @@
   },
   "events": [
     {
-      "name": "樟葉駅前広場フリーマーケット(11月)",
-      "type": "フリーマーケット",
-      "pref": "大阪",
-      "place": "樟葉駅前広場",
-      "url": "https://www.nadeshikofurima.com/",
-      "date": "2026-11-03",
-      "source": "ウォーカープラス",
-      "status": "掲載情報・要開催確認"
-    },
-    {
       "name": "MEGAドンキホーテUNY西大和フリーマーケット(11月)",
       "type": "フリーマーケット",
       "pref": "奈良",
       "place": "MEGAドンキホーテUNY西大和",
       "url": "https://www.nadeshikofurima.com/",
       "date": "2026-11-07",
+      "source": "ウォーカープラス",
+      "status": "掲載情報・要開催確認"
+    },
+    {
+      "name": "ジャガータウンフリーマーケット(11月)",
+      "type": "フリーマーケット",
+      "pref": "大阪",
+      "place": "ジャガータウン",
+      "url": "https://www.nadeshikofurima.com/",
+      "date": "2026-11-08",
       "source": "ウォーカープラス",
       "status": "掲載情報・要開催確認"
     },
@@ -124,6 +124,16 @@
       "status": "掲載情報・要開催確認"
     },
     {
+      "name": "平安神宮前 岡崎公園フリーマーケット(12月)",
+      "type": "フリーマーケット",
+      "pref": "京都",
+      "place": "岡崎公園",
+      "url": "https://www.nadeshikofurima.com/",
+      "date": "2026-12-02",
+      "source": "ウォーカープラス",
+      "status": "掲載情報・要開催確認"
+    },
+    {
       "name": "サンシャインワーフ神戸 フリーマーケット",
       "type": "フリーマーケット",
       "pref": "兵庫",
@@ -189,7 +199,7 @@
       "source": "ウォーカープラス",
       "url": "https://www.walkerplus.com/event_list/ar0700/eg0115/",
       "status": "取得成功",
-      "count": 7
+      "count": 8
     },
     {
       "source": "日本スワップミート協会",
@@ -317,7 +327,7 @@
     "generic_failed": 4,
     "legacy_checks": 5,
     "legacy_successful_checks": 2,
-    "unique_events": 14,
+    "unique_events": 15,
     "active_sources": [
       "ウォーカープラス",
       "フリマへGO!",
