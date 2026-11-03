@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T06:16:33.636919+00:00",
+  "updated_at": "2026-11-03T06:23:52.957578+00:00",
   "coverage": {
     "prefectures": [
       "大阪",
@@ -241,7 +241,7 @@
     },
     {
       "source": "GOOD ANTIQUES",
-      "url": "https://good-antiques.com/pages/tags/freq-monthly",
+      "url": "https://good-antiques.com/pages/prefectures/osaka",
       "status": "アクセス成功・対象イベント0件",
       "count": 0
     },
@@ -259,13 +259,13 @@
     },
     {
       "source": "MARKET DAYS",
-      "url": "",
-      "status": "URL未検証・未実装",
+      "url": "https://marketdays.jp/season/",
+      "status": "アクセス成功・対象イベント0件",
       "count": 0
     },
     {
       "source": "目の眼",
-      "url": "https://www.menomeonline.com/",
+      "url": "https://menomeonline.com/event-area/kinki/",
       "status": "アクセス成功・対象イベント0件",
       "count": 0
     },
@@ -311,9 +311,9 @@
   ],
   "source_summary": {
     "registered": 18,
-    "url_unverified": 3,
+    "url_unverified": 2,
     "generic_with_events": 1,
-    "generic_accessible_zero": 6,
+    "generic_accessible_zero": 7,
     "generic_failed": 4,
     "legacy_checks": 5,
     "legacy_successful_checks": 2,
