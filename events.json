@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T05:42:09.790732+00:00",
+  "updated_at": "2026-11-03T05:46:33.927256+00:00",
   "coverage": {
     "prefectures": [
       "大阪",
@@ -17,11 +17,60 @@
       "閉店セール"
     ],
     "unconfigured_types": [
-      "忘れ物市",
       "閉店セール"
     ]
   },
   "events": [
+    {
+      "name": "樟葉駅前広場フリーマーケット(11月)",
+      "type": "フリーマーケット",
+      "pref": "大阪",
+      "place": "樟葉駅前広場",
+      "url": "https://www.nadeshikofurima.com/",
+      "date": "2026-11-03",
+      "source": "ウォーカープラス",
+      "status": "掲載情報・要開催確認"
+    },
+    {
+      "name": "MEGAドンキホーテUNY西大和フリーマーケット(11月)",
+      "type": "フリーマーケット",
+      "pref": "奈良",
+      "place": "MEGAドンキホーテUNY西大和",
+      "url": "https://www.nadeshikofurima.com/",
+      "date": "2026-11-07",
+      "source": "ウォーカープラス",
+      "status": "掲載情報・要開催確認"
+    },
+    {
+      "name": "京都市役所前広場フリーマーケット(11月)",
+      "type": "フリーマーケット",
+      "pref": "京都",
+      "place": "京都市役所前広場",
+      "url": "https://www.nadeshikofurima.com/",
+      "date": "2026-11-08",
+      "source": "ウォーカープラス",
+      "status": "掲載情報・要開催確認"
+    },
+    {
+      "name": "東本願寺前 お東さんフリーマーケット(11月)",
+      "type": "フリーマーケット",
+      "pref": "京都",
+      "place": "東本願寺前市民広場",
+      "url": "https://www.nadeshikofurima.com/",
+      "date": "2026-11-12",
+      "source": "ウォーカープラス",
+      "status": "掲載情報・要開催確認"
+    },
+    {
+      "name": "ばらいけ公園 de フリマ(11月)",
+      "type": "フリーマーケット",
+      "pref": "大阪",
+      "place": "原池公園 特設会場",
+      "url": "https://swapmeet.ne.jp/info/baraike_park",
+      "date": "2026-11-14",
+      "source": "ウォーカープラス",
+      "status": "掲載情報・要開催確認"
+    },
     {
       "name": "サンシャインワーフ神戸 フリーマーケット",
       "type": "フリーマーケット",
@@ -30,6 +79,16 @@
       "url": "https://b-i-a.jp/reserve/sunshine/",
       "date": "2026-11-14",
       "source": "フリマへGO!",
+      "status": "掲載情報・要開催確認"
+    },
+    {
+      "name": "花園中央公園フリーマーケット(11月)",
+      "type": "フリーマーケット",
+      "pref": "大阪",
+      "place": "花園中央公園",
+      "url": "https://hanazono-centralparks-hos.com/",
+      "date": "2026-11-15",
+      "source": "ウォーカープラス",
       "status": "掲載情報・要開催確認"
     },
     {
@@ -91,6 +150,16 @@
       "date": "2026-12-19",
       "source": "フリマへGO!",
       "status": "掲載情報・要開催確認"
+    },
+    {
+      "name": "安満遺跡公園フリーマーケット(12月)",
+      "type": "フリーマーケット",
+      "pref": "大阪",
+      "place": "安満遺跡公園",
+      "url": "https://www.nadeshikofurima.com/",
+      "date": "2026-12-19",
+      "source": "ウォーカープラス",
+      "status": "掲載情報・要開催確認"
     }
   ],
   "collection_log": [
@@ -98,7 +167,163 @@
     "fmfm 関西骨董市・蚤の市: SKIPPED (PermissionError: robots.txt unavailable or access disallowed)",
     "fmfm 関西フリーマーケット: SKIPPED (PermissionError: robots.txt unavailable or access disallowed)",
     "日本ガレージセール協会: 1 records",
-    "忘れ物市: no verified machine-readable source configured yet",
-    "閉店セール: no verified machine-readable source configured yet"
-  ]
+    "あまがさきキューズモール 忘れ物市: SKIPPED (PermissionError: robots.txt unavailable or access disallowed)",
+    "閉店セール: 専用の検証済み収集先は未設定"
+  ],
+  "source_report": [
+    {
+      "source": "フリマへGO!",
+      "url": "https://b-i-a.jp/",
+      "status": "legacy",
+      "count": null
+    },
+    {
+      "source": "fmfm.jp",
+      "url": "https://fmfm.jp/",
+      "status": "legacy",
+      "count": null
+    },
+    {
+      "source": "ウォーカープラス",
+      "url": "https://www.walkerplus.com/event_list/ar0700/eg0115/",
+      "status": "取得成功",
+      "count": 7
+    },
+    {
+      "source": "日本スワップミート協会",
+      "url": "https://swapmeet.ne.jp/index.html",
+      "status": "取得失敗: PermissionError: robots.txt unavailable or access disallowed",
+      "count": 0
+    },
+    {
+      "source": "日本ガレージセール協会",
+      "url": "https://garagesale.co.jp/",
+      "status": "legacy",
+      "count": null
+    },
+    {
+      "source": "なでしこフリマ",
+      "url": "https://www.nadeshikofurima.com/",
+      "status": "アクセス成功・対象イベント0件",
+      "count": 0
+    },
+    {
+      "source": "ゴーゴーフリマ",
+      "url": "",
+      "status": "URL未検証・未実装",
+      "count": 0
+    },
+    {
+      "source": "フリマの窓口",
+      "url": "",
+      "status": "URL未検証・未実装",
+      "count": 0
+    },
+    {
+      "source": "Flea Market JP",
+      "url": "",
+      "status": "URL未検証・未実装",
+      "count": 0
+    },
+    {
+      "source": "ふりまるマーケット",
+      "url": "",
+      "status": "URL未検証・未実装",
+      "count": 0
+    },
+    {
+      "source": "ANTIQUE LEAVES",
+      "url": "https://antique-leaves.com/",
+      "status": "アクセス成功・対象イベント0件",
+      "count": 0
+    },
+    {
+      "source": "GOOD ANTIQUES",
+      "url": "https://good-antiques.com/pages/tags/freq-monthly",
+      "status": "アクセス成功・対象イベント0件",
+      "count": 0
+    },
+    {
+      "source": "平安蚤の市",
+      "url": "https://www.heiannominoichi.jp/",
+      "status": "取得失敗: PermissionError: robots.txt unavailable or access disallowed",
+      "count": 0
+    },
+    {
+      "source": "万博蚤の市",
+      "url": "https://vintagemarket.jp/",
+      "status": "アクセス成功・対象イベント0件",
+      "count": 0
+    },
+    {
+      "source": "MARKET DAYS",
+      "url": "",
+      "status": "URL未検証・未実装",
+      "count": 0
+    },
+    {
+      "source": "目の眼",
+      "url": "https://www.menomeonline.com/",
+      "status": "アクセス成功・対象イベント0件",
+      "count": 0
+    },
+    {
+      "source": "あまがさきキューズモール",
+      "url": "https://qs-mall.jp/amagasaki/event/detail/1229",
+      "status": "legacy",
+      "count": null
+    },
+    {
+      "source": "X @raillostarticle",
+      "url": "https://x.com/raillostarticle",
+      "status": "URL未検証・未実装",
+      "count": 0
+    }
+  ],
+  "legacy_report": [
+    {
+      "source": "サンシャインワーフ神戸",
+      "status": "取得成功",
+      "count": 6
+    },
+    {
+      "source": "fmfm 関西骨董市・蚤の市",
+      "status": "取得失敗: PermissionError: robots.txt unavailable or access disallowed",
+      "count": 0
+    },
+    {
+      "source": "fmfm 関西フリーマーケット",
+      "status": "取得失敗: PermissionError: robots.txt unavailable or access disallowed",
+      "count": 0
+    },
+    {
+      "source": "日本ガレージセール協会",
+      "status": "取得成功",
+      "count": 1
+    },
+    {
+      "source": "あまがさきキューズモール 忘れ物市",
+      "status": "取得失敗: PermissionError: robots.txt unavailable or access disallowed",
+      "count": 0
+    }
+  ],
+  "source_summary": {
+    "registered": 18,
+    "url_unverified": 6,
+    "generic_with_events": 1,
+    "generic_accessible_zero": 5,
+    "generic_failed": 2,
+    "legacy_checks": 5,
+    "legacy_successful_checks": 2,
+    "unique_events": 14,
+    "active_sources": [
+      "ウォーカープラス",
+      "フリマへGO!",
+      "日本ガレージセール協会"
+    ],
+    "active_types": [
+      "フリーマーケット",
+      "蚤の市"
+    ]
+  }
 }
