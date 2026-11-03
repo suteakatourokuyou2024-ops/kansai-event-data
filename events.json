@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T05:46:33.927256+00:00",
+  "updated_at": "2026-11-03T06:11:35.367921+00:00",
   "coverage": {
     "prefectures": [
       "大阪",
@@ -215,20 +215,20 @@
     },
     {
       "source": "フリマの窓口",
-      "url": "",
-      "status": "URL未検証・未実装",
+      "url": "https://furima-madoguchi.jp/osaka/",
+      "status": "アクセス成功・対象イベント0件",
       "count": 0
     },
     {
       "source": "Flea Market JP",
-      "url": "",
-      "status": "URL未検証・未実装",
+      "url": "https://streetbazaars.jp/ja/area/27/",
+      "status": "取得失敗: PermissionError: robots.txt unavailable or access disallowed",
       "count": 0
     },
     {
       "source": "ふりまるマーケット",
-      "url": "",
-      "status": "URL未検証・未実装",
+      "url": "https://www.furimaru-market.com/",
+      "status": "取得失敗: PermissionError: robots.txt unavailable or access disallowed",
       "count": 0
     },
     {
@@ -309,10 +309,10 @@
   ],
   "source_summary": {
     "registered": 18,
-    "url_unverified": 6,
+    "url_unverified": 3,
     "generic_with_events": 1,
-    "generic_accessible_zero": 5,
-    "generic_failed": 2,
+    "generic_accessible_zero": 6,
+    "generic_failed": 4,
     "legacy_checks": 5,
     "legacy_successful_checks": 2,
     "unique_events": 14,
