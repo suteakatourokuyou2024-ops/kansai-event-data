@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T21:38:30.723565+00:00",
+  "updated_at": "2026-11-07T21:34:14.951600+00:00",
   "coverage": {
     "prefectures": [
       "大阪",
@@ -24,26 +24,6 @@
   },
   "events": [
     {
-      "name": "MEGAドンキホーテUNY西大和フリーマーケット(11月)",
-      "type": "フリーマーケット",
-      "pref": "奈良",
-      "place": "MEGAドンキホーテUNY西大和",
-      "url": "https://www.nadeshikofurima.com/",
-      "date": "2026-11-07",
-      "source": "ウォーカープラス",
-      "status": "掲載情報・要開催確認"
-    },
-    {
-      "name": "イズミヤSC昆陽店 de フリマ(11月)",
-      "type": "フリーマーケット",
-      "pref": "兵庫",
-      "place": "イズミヤSC昆陽店 敷地内駐車場棟屋上 特設会場",
-      "url": "https://swapmeet.ne.jp/info/koya",
-      "date": "2026-11-07",
-      "source": "ウォーカープラス",
-      "status": "掲載情報・要開催確認"
-    },
-    {
       "name": "ジャガータウンフリーマーケット(11月)",
       "type": "フリーマーケット",
       "pref": "大阪",
@@ -60,6 +40,16 @@
       "place": "京都市役所前広場",
       "url": "https://www.nadeshikofurima.com/",
       "date": "2026-11-08",
+      "source": "ウォーカープラス",
+      "status": "掲載情報・要開催確認"
+    },
+    {
+      "name": "東本願寺前 お東さんフリーマーケット(11月)",
+      "type": "フリーマーケット",
+      "pref": "京都",
+      "place": "東本願寺前市民広場",
+      "url": "https://www.nadeshikofurima.com/",
+      "date": "2026-11-12",
       "source": "ウォーカープラス",
       "status": "掲載情報・要開催確認"
     },
@@ -189,7 +179,7 @@
       "source": "ウォーカープラス",
       "url": "https://www.walkerplus.com/event_list/ar0700/eg0115/",
       "status": "取得成功",
-      "count": 7
+      "count": 6
     },
     {
       "source": "日本スワップミート協会",
@@ -317,7 +307,7 @@
     "generic_failed": 4,
     "legacy_checks": 5,
     "legacy_successful_checks": 2,
-    "unique_events": 14,
+    "unique_events": 13,
     "active_sources": [
       "ウォーカープラス",
       "フリマへGO!",
