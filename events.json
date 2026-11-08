@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T21:34:14.951600+00:00",
+  "updated_at": "2026-11-08T21:34:09.958772+00:00",
   "coverage": {
     "prefectures": [
       "大阪",
@@ -23,26 +23,6 @@
     ]
   },
   "events": [
-    {
-      "name": "ジャガータウンフリーマーケット(11月)",
-      "type": "フリーマーケット",
-      "pref": "大阪",
-      "place": "ジャガータウン",
-      "url": "https://www.nadeshikofurima.com/",
-      "date": "2026-11-08",
-      "source": "ウォーカープラス",
-      "status": "掲載情報・要開催確認"
-    },
-    {
-      "name": "京都市役所前広場フリーマーケット(11月)",
-      "type": "フリーマーケット",
-      "pref": "京都",
-      "place": "京都市役所前広場",
-      "url": "https://www.nadeshikofurima.com/",
-      "date": "2026-11-08",
-      "source": "ウォーカープラス",
-      "status": "掲載情報・要開催確認"
-    },
     {
       "name": "東本願寺前 お東さんフリーマーケット(11月)",
       "type": "フリーマーケット",
@@ -71,6 +51,16 @@
       "url": "https://b-i-a.jp/reserve/sunshine/",
       "date": "2026-11-14",
       "source": "フリマへGO!",
+      "status": "掲載情報・要開催確認"
+    },
+    {
+      "name": "イオンタウン富雄南フリーマーケット(11月)",
+      "type": "フリーマーケット",
+      "pref": "奈良",
+      "place": "イオンタウン富雄南",
+      "url": "https://www.nadeshikofurima.com/",
+      "date": "2026-11-15",
+      "source": "ウォーカープラス",
       "status": "掲載情報・要開催確認"
     },
     {
@@ -111,6 +101,16 @@
       "url": "https://b-i-a.jp/reserve/sunshine/",
       "date": "2026-11-29",
       "source": "フリマへGO!",
+      "status": "掲載情報・要開催確認"
+    },
+    {
+      "name": "平安神宮前 岡崎公園フリーマーケット(12月)",
+      "type": "フリーマーケット",
+      "pref": "京都",
+      "place": "岡崎公園",
+      "url": "https://www.nadeshikofurima.com/",
+      "date": "2026-12-02",
+      "source": "ウォーカープラス",
       "status": "掲載情報・要開催確認"
     },
     {
