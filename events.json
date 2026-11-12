@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T22:06:14.543207+00:00",
+  "updated_at": "2026-11-12T21:44:56.834726+00:00",
   "coverage": {
     "prefectures": [
       "大阪",
@@ -23,16 +23,6 @@
     ]
   },
   "events": [
-    {
-      "name": "東本願寺前 お東さんフリーマーケット(11月)",
-      "type": "フリーマーケット",
-      "pref": "京都",
-      "place": "東本願寺前市民広場",
-      "url": "https://www.nadeshikofurima.com/",
-      "date": "2026-11-12",
-      "source": "ウォーカープラス",
-      "status": "掲載情報・要開催確認"
-    },
     {
       "name": "ばらいけ公園 de フリマ(11月)",
       "type": "フリーマーケット",
@@ -179,7 +169,7 @@
       "source": "ウォーカープラス",
       "url": "https://www.walkerplus.com/event_list/ar0700/eg0115/",
       "status": "取得成功",
-      "count": 6
+      "count": 5
     },
     {
       "source": "日本スワップミート協会",
@@ -307,7 +297,7 @@
     "generic_failed": 4,
     "legacy_checks": 5,
     "legacy_successful_checks": 2,
-    "unique_events": 13,
+    "unique_events": 12,
     "active_sources": [
       "ウォーカープラス",
       "フリマへGO!",
