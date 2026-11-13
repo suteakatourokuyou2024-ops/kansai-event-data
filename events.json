@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T21:44:56.834726+00:00",
+  "updated_at": "2026-11-13T21:45:39.042043+00:00",
   "coverage": {
     "prefectures": [
       "大阪",
@@ -31,16 +31,6 @@
       "url": "https://swapmeet.ne.jp/info/baraike_park",
       "date": "2026-11-14",
       "source": "ウォーカープラス",
-      "status": "掲載情報・要開催確認"
-    },
-    {
-      "name": "サンシャインワーフ神戸 フリーマーケット",
-      "type": "フリーマーケット",
-      "pref": "兵庫",
-      "place": "サンシャインワーフ神戸",
-      "url": "https://b-i-a.jp/reserve/sunshine/",
-      "date": "2026-11-14",
-      "source": "フリマへGO!",
       "status": "掲載情報・要開催確認"
     },
     {
@@ -145,7 +135,7 @@
     }
   ],
   "collection_log": [
-    "サンシャインワーフ神戸: 6 records",
+    "サンシャインワーフ神戸: 5 records",
     "fmfm 関西骨董市・蚤の市: SKIPPED (PermissionError: robots.txt unavailable or access disallowed)",
     "fmfm 関西フリーマーケット: SKIPPED (PermissionError: robots.txt unavailable or access disallowed)",
     "日本ガレージセール協会: 1 records",
@@ -266,7 +256,7 @@
     {
       "source": "サンシャインワーフ神戸",
       "status": "取得成功",
-      "count": 6
+      "count": 5
     },
     {
       "source": "fmfm 関西骨董市・蚤の市",
@@ -297,7 +287,7 @@
     "generic_failed": 4,
     "legacy_checks": 5,
     "legacy_successful_checks": 2,
-    "unique_events": 12,
+    "unique_events": 11,
     "active_sources": [
       "ウォーカープラス",
       "フリマへGO!",
