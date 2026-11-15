@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T21:33:28.020849+00:00",
+  "updated_at": "2026-11-15T21:35:45.589856+00:00",
   "coverage": {
     "prefectures": [
       "大阪",
@@ -24,26 +24,6 @@
   },
   "events": [
     {
-      "name": "イオンタウン富雄南フリーマーケット(11月)",
-      "type": "フリーマーケット",
-      "pref": "奈良",
-      "place": "イオンタウン富雄南",
-      "url": "https://www.nadeshikofurima.com/",
-      "date": "2026-11-15",
-      "source": "ウォーカープラス",
-      "status": "掲載情報・要開催確認"
-    },
-    {
-      "name": "花園中央公園フリーマーケット(11月)",
-      "type": "フリーマーケット",
-      "pref": "大阪",
-      "place": "花園中央公園",
-      "url": "https://hanazono-centralparks-hos.com/",
-      "date": "2026-11-15",
-      "source": "ウォーカープラス",
-      "status": "掲載情報・要開催確認"
-    },
-    {
       "name": "東本願寺前 お東さん広場 フリーマーケット&マルシェ",
       "type": "フリーマーケット",
       "pref": "京都",
@@ -61,6 +41,16 @@
       "url": "https://b-i-a.jp/reserve/sunshine/",
       "date": "2026-11-18",
       "source": "フリマへGO!",
+      "status": "掲載情報・要開催確認"
+    },
+    {
+      "name": "安満遺跡公園フリーマーケット(11月)",
+      "type": "フリーマーケット",
+      "pref": "大阪",
+      "place": "安満遺跡公園",
+      "url": "https://www.nadeshikofurima.com/",
+      "date": "2026-11-21",
+      "source": "ウォーカープラス",
       "status": "掲載情報・要開催確認"
     },
     {
@@ -101,6 +91,26 @@
       "url": "https://b-i-a.jp/reserve/sunshine/",
       "date": "2026-12-05",
       "source": "フリマへGO!",
+      "status": "掲載情報・要開催確認"
+    },
+    {
+      "name": "ファミリーフリーマーケット(12月)",
+      "type": "フリーマーケット",
+      "pref": "兵庫",
+      "place": "国崎クリーンセンター啓発施設・ゆめほたる",
+      "url": "https://www.kunisakicc.jp/yumehotaru/",
+      "date": "2026-12-06",
+      "source": "ウォーカープラス",
+      "status": "掲載情報・要開催確認"
+    },
+    {
+      "name": "京都市役所前広場フリーマーケット(12月)",
+      "type": "フリーマーケット",
+      "pref": "京都",
+      "place": "京都市役所前広場",
+      "url": "https://www.nadeshikofurima.com/",
+      "date": "2026-12-13",
+      "source": "ウォーカープラス",
       "status": "掲載情報・要開催確認"
     },
     {
@@ -159,7 +169,7 @@
       "source": "ウォーカープラス",
       "url": "https://www.walkerplus.com/event_list/ar0700/eg0115/",
       "status": "取得成功",
-      "count": 4
+      "count": 5
     },
     {
       "source": "日本スワップミート協会",
@@ -287,7 +297,7 @@
     "generic_failed": 4,
     "legacy_checks": 5,
     "legacy_successful_checks": 2,
-    "unique_events": 11,
+    "unique_events": 12,
     "active_sources": [
       "MARKET DAYS",
       "ウォーカープラス",
