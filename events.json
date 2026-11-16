@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T21:35:45.589856+00:00",
+  "updated_at": "2026-11-16T21:48:35.870154+00:00",
   "coverage": {
     "prefectures": [
       "大阪",
@@ -23,16 +23,6 @@
     ]
   },
   "events": [
-    {
-      "name": "東本願寺前 お東さん広場 フリーマーケット&マルシェ",
-      "type": "フリーマーケット",
-      "pref": "京都",
-      "place": "",
-      "url": "https://www.fmfm-king.com/kyoto/",
-      "date": "2026-11-16",
-      "source": "MARKET DAYS",
-      "status": "掲載情報・要開催確認"
-    },
     {
       "name": "サンシャインワーフ神戸 フリーマーケット",
       "type": "フリーマーケット",
@@ -240,8 +230,8 @@
     {
       "source": "MARKET DAYS",
       "url": "https://marketdays.jp/season/",
-      "status": "取得成功",
-      "count": 1
+      "status": "取得失敗: PermissionError: robots.txt unavailable or access disallowed",
+      "count": 0
     },
     {
       "source": "目の眼",
@@ -292,14 +282,13 @@
   "source_summary": {
     "registered": 18,
     "url_unverified": 2,
-    "generic_with_events": 2,
+    "generic_with_events": 1,
     "generic_accessible_zero": 6,
-    "generic_failed": 4,
+    "generic_failed": 5,
     "legacy_checks": 5,
     "legacy_successful_checks": 2,
-    "unique_events": 12,
+    "unique_events": 11,
     "active_sources": [
-      "MARKET DAYS",
       "ウォーカープラス",
       "フリマへGO!",
       "日本ガレージセール協会"
