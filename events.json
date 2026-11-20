@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T21:48:43.219567+00:00",
+  "updated_at": "2026-11-20T21:46:31.183419+00:00",
   "coverage": {
     "prefectures": [
       "大阪",
@@ -24,16 +24,6 @@
   },
   "events": [
     {
-      "name": "安満遺跡公園フリーマーケット(11月)",
-      "type": "フリーマーケット",
-      "pref": "大阪",
-      "place": "安満遺跡公園",
-      "url": "https://www.nadeshikofurima.com/",
-      "date": "2026-11-21",
-      "source": "ウォーカープラス",
-      "status": "掲載情報・要開催確認"
-    },
-    {
       "name": "中之島「古着&ヴィンテージ」祭り",
       "type": "蚤の市",
       "pref": "大阪",
@@ -54,16 +44,6 @@
       "status": "掲載情報・要開催確認"
     },
     {
-      "name": "平安神宮前 岡崎公園フリーマーケット(12月)",
-      "type": "フリーマーケット",
-      "pref": "京都",
-      "place": "岡崎公園",
-      "url": "https://www.nadeshikofurima.com/",
-      "date": "2026-12-02",
-      "source": "ウォーカープラス",
-      "status": "掲載情報・要開催確認"
-    },
-    {
       "name": "サンシャインワーフ神戸 フリーマーケット",
       "type": "フリーマーケット",
       "pref": "兵庫",
@@ -71,26 +51,6 @@
       "url": "https://b-i-a.jp/reserve/sunshine/",
       "date": "2026-12-05",
       "source": "フリマへGO!",
-      "status": "掲載情報・要開催確認"
-    },
-    {
-      "name": "ファミリーフリーマーケット(12月)",
-      "type": "フリーマーケット",
-      "pref": "兵庫",
-      "place": "国崎クリーンセンター啓発施設・ゆめほたる",
-      "url": "https://www.kunisakicc.jp/yumehotaru/",
-      "date": "2026-12-06",
-      "source": "ウォーカープラス",
-      "status": "掲載情報・要開催確認"
-    },
-    {
-      "name": "京都市役所前広場フリーマーケット(12月)",
-      "type": "フリーマーケット",
-      "pref": "京都",
-      "place": "京都市役所前広場",
-      "url": "https://www.nadeshikofurima.com/",
-      "date": "2026-12-13",
-      "source": "ウォーカープラス",
       "status": "掲載情報・要開催確認"
     },
     {
@@ -114,18 +74,28 @@
       "status": "掲載情報・要開催確認"
     },
     {
-      "name": "安満遺跡公園フリーマーケット(12月)",
+      "name": "サンシャインワーフ神戸 フリーマーケット",
       "type": "フリーマーケット",
-      "pref": "大阪",
-      "place": "安満遺跡公園",
-      "url": "https://www.nadeshikofurima.com/",
-      "date": "2026-12-19",
-      "source": "ウォーカープラス",
+      "pref": "兵庫",
+      "place": "サンシャインワーフ神戸",
+      "url": "https://b-i-a.jp/reserve/sunshine/",
+      "date": "2027-01-11",
+      "source": "フリマへGO!",
+      "status": "掲載情報・要開催確認"
+    },
+    {
+      "name": "サンシャインワーフ神戸 フリーマーケット",
+      "type": "フリーマーケット",
+      "pref": "兵庫",
+      "place": "サンシャインワーフ神戸",
+      "url": "https://b-i-a.jp/reserve/sunshine/",
+      "date": "2027-01-16",
+      "source": "フリマへGO!",
       "status": "掲載情報・要開催確認"
     }
   ],
   "collection_log": [
-    "サンシャインワーフ神戸: 4 records",
+    "サンシャインワーフ神戸: 6 records",
     "fmfm 関西骨董市・蚤の市: SKIPPED (PermissionError: robots.txt unavailable or access disallowed)",
     "fmfm 関西フリーマーケット: SKIPPED (PermissionError: robots.txt unavailable or access disallowed)",
     "日本ガレージセール協会: 1 records",
@@ -148,8 +118,8 @@
     {
       "source": "ウォーカープラス",
       "url": "https://www.walkerplus.com/event_list/ar0700/eg0115/",
-      "status": "取得成功",
-      "count": 5
+      "status": "取得失敗: ReadTimeout: HTTPSConnectionPool(host='www.walkerplus.com', port=443): Read timed out. (read timeout=18)",
+      "count": 0
     },
     {
       "source": "日本スワップミート協会",
@@ -246,7 +216,7 @@
     {
       "source": "サンシャインワーフ神戸",
       "status": "取得成功",
-      "count": 4
+      "count": 6
     },
     {
       "source": "fmfm 関西骨董市・蚤の市",
@@ -272,14 +242,13 @@
   "source_summary": {
     "registered": 18,
     "url_unverified": 2,
-    "generic_with_events": 1,
+    "generic_with_events": 0,
     "generic_accessible_zero": 7,
-    "generic_failed": 4,
+    "generic_failed": 5,
     "legacy_checks": 5,
     "legacy_successful_checks": 2,
-    "unique_events": 10,
+    "unique_events": 7,
     "active_sources": [
-      "ウォーカープラス",
       "フリマへGO!",
       "日本ガレージセール協会"
     ],
