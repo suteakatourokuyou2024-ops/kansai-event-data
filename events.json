@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T21:46:31.183419+00:00",
+  "updated_at": "2026-11-21T21:39:01.681630+00:00",
   "coverage": {
     "prefectures": [
       "大阪",
@@ -118,7 +118,7 @@
     {
       "source": "ウォーカープラス",
       "url": "https://www.walkerplus.com/event_list/ar0700/eg0115/",
-      "status": "取得失敗: ReadTimeout: HTTPSConnectionPool(host='www.walkerplus.com', port=443): Read timed out. (read timeout=18)",
+      "status": "取得失敗: HTTPError: 504 Server Error: Gateway Time-out for url: https://www.walkerplus.com/event_list/ar0700/eg0115/",
       "count": 0
     },
     {
